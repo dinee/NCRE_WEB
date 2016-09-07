@@ -1,0 +1,21 @@
+1.Internet与Web技术
+
+Internet
+1962年 美国军事上的分散指挥系统
+1969年 美国ARPANET(阿帕网)
+1974年 TCP/IP协议问世
+
+Web
+Web就是一种超文本信息系统，它采用超文本信息组织方式，将信息的链接扩展到整个Internet上。
+URI(Uniform Resource Identifier) 资源标识符
+HTTP(Hypertext Transfer Protocol) 超文本传输协议
+W3C(World Wide Web Consortium) 万维网联盟
+
+Web的技术特点
+具有丰富的多媒体表现性
+具有超级链接和快速导航能力
+具有跨平台独立性
+具有分布自治特性
+具有动态交互特性
+
+2.Web技术的主要组成
